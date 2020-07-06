@@ -8,6 +8,14 @@ The codes have been adapted and slightly modified from [this](https://github.com
     $ pip install -U nltk
     $ python
     >>> import nltk; nltk.download('wordnet')
+
+## Directory Structure of The Project
+```
+.
+├── data
+└── src
+```
+
 Place the data in the `data/` directory in the following formet in a `.txt` file: 
 
     1   neil burger here succeeded in making the mystery of four decades back the springboard for a more immediate mystery in the present 
