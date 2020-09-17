@@ -1,6 +1,13 @@
 # text-augmentation
 
 The codes have been adapted and slightly modified from [this](https://github.com/jasonwei20/eda_nlp) repositiory. 
+
+## Augmentation Techniques
+ - Synonym replacement
+ - Random deletion
+ - Random word swap
+ - Random word insertion
+
 ## Installation
 
     $ git clone git@github.com:sksoumik/text-augmentation.git
